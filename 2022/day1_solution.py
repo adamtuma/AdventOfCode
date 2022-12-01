@@ -2,7 +2,6 @@
 
 txt_file = open('day1_input.txt', 'r')
 data = [line.strip() for line in txt_file]
-#data = [i.replace("","0") for i in data]
 txt_file.close()
 
 calories = []
