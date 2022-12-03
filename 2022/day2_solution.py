@@ -44,4 +44,4 @@ for i in data:
     round = results2.get(i)
     score2 += round
 
-print(f"Answer for part one is: {score2}")
+print(f"Answer for part two is: {score2}")
