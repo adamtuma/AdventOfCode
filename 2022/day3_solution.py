@@ -1,5 +1,4 @@
 ### PART 1 ###
-import string
 
 txt_file = open('2022/day3_input.txt', 'r')
 data = [line.strip() for line in txt_file]
